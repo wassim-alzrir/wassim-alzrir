@@ -1,0 +1,1055 @@
+fileFormatVersion: 2
+guid: 6357751ab56f1784393e8fdca68123cc
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: crash sprite_0
+    21300002: crash sprite_1
+    21300004: crash sprite_2
+    21300006: crash sprite_3
+    21300008: crash sprite_4
+    21300010: crash sprite_5
+    21300012: crash sprite_6
+    21300014: crash sprite_7
+    21300016: crash sprite_8
+    21300018: crash sprite_9
+    21300020: crash sprite_10
+    21300022: crash sprite_11
+    21300024: crash sprite_12
+    21300026: crash sprite_13
+    21300028: crash sprite_14
+    21300030: crash sprite_15
+    21300032: crash sprite_16
+    21300034: crash sprite_17
+    21300036: crash sprite_18
+    21300038: crash sprite_19
+    21300040: crash sprite_20
+    21300042: crash sprite_21
+    21300044: crash sprite_22
+    21300046: crash sprite_23
+    21300048: crash sprite_24
+    21300050: crash sprite_25
+    21300052: crash sprite_26
+    21300054: crash sprite_27
+    21300056: crash sprite_28
+    21300058: crash sprite_29
+    21300060: crash sprite_30
+    21300062: crash sprite_31
+    21300064: crash sprite_32
+    21300066: crash sprite_33
+    21300068: crash sprite_34
+    21300070: crash sprite_35
+    21300072: crash sprite_36
+    21300074: crash sprite_37
+    21300076: crash sprite_38
+    21300078: crash sprite_39
+    21300080: crash sprite_40
+    21300082: crash sprite_41
+    21300084: crash sprite_42
+    21300086: crash sprite_43
+    21300088: crash sprite_44
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crash sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 333
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7550d6093d8cf7140a5e3412f1de86c0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 333
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e33264ef0d7816489794522b93ae31e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_2
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 333
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d3f2462276d674cb76cc67583186de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 333
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 515bc626f7d6f374397abbeb04901d17
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_4
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 333
+        width: 23
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514217672e964b24db46ccdd60be4303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_5
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 333
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccd4c37214dfc64d822431d1557e608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 289
+        width: 22
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebcf936eb41a8b64382afe68334b5e53
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_7
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 289
+        width: 25
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbed63d3c796c5439611c62ab12e2e8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_8
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 289
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7874b8e72aaaae944a287754848b3684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_9
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 289
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc49c8213b4cae40b08bd00eb2374de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 235
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142e14eabd11960498b1195d38b357e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_11
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 241
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3151f195c3f84a6419079d2dc7451c33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_12
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 237
+        width: 32
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b19bbee4e5111e4e80f9c8418faac08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_13
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 236
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b0f9f51a9ca624395b2bd9f2ad6fc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 236
+        width: 35
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ff878f0d5b3274e9b8d6c2453e9c96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 241
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06fc9cf5f1a50984a8e0acde771b1b3f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 237
+        width: 29
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58422a5b3cf21444e9d28abeffbb557f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_17
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 237
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80f20b6cb97770418fe0f84ce3acb82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_18
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 187
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae541be11f9ef419fe8c783ac16edf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_19
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 187
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56ddbc7ccfc4f54e9f2f5f82a67920f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_20
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 183
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bccd28ade2b158e42998bb482b79c1cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 184
+        width: 23
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e483454cb7f884e8081648a7779a54
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_22
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 185
+        width: 25
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb645c01a7dd4224cba88f649aae17df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5827943bd0f8a4bb4a05b81e4b5745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_24
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 144
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a4d22eb9c9d934fa72b8c2a9faa691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 88
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b111d37ce5b211c47a63ff8fa01816f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_26
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 88
+        width: 39
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c23849bb85904249b058ae1e7b360a8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_27
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 88
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e130a35d4eb231e40bb01c7b8478c4ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_28
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 88
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be444feed0a4b574d8cbfa5278086702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 88
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c57680a22da7b71479946d4a583306c8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 88
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088df40a321befc469eabc945695c5fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_31
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 88
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20acd3cc0ef7e34ab5d420a956bc906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_32
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 88
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a730652987f444a8f14a64cb555185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_33
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 88
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0957ffe9f08e64f9a8e01ee02e4917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_34
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 88
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07993fc0719d4a5448bf09196818faa0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_35
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 88
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6478a75653de28b4db094a9feeb3cd2d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_36
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 88
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f342176d1503374bb4c62a912887f3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_37
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 89
+        width: 44
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d6f6786d096824fa7730607ade0b84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_38
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 89
+        width: 42
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b392fe09f030bf488e1b9396a3c6753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_39
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 37
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f00a1c2574d6041a62bfb835e917b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_40
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 37
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89aa9bd1a9f495e46b282c4e89ba5241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_41
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 37
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6826d1aaca1564b8836bcce153abbe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 37
+        width: 47
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7a70bcab46518429169d005732832f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_43
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 37
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13eb6a63a1ca9ac4682203bd2bdb4e26
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crash sprite_44
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 37
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cce97083e7f5cf4bb97d5274dd14032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 998049fc29c6f9741b941b997f877226
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
